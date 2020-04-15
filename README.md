@@ -6,7 +6,7 @@
 
 ############## 目录说明 ##############
 
-Vuforia：基于影创ShadowSDK制作的Vuforia的样例
+Vuforia_ShadowSDK3.0.1：基于影创ShadowSDK3.0.1制作的Vuforia的样例
 
 ############## 备注说明 ##############
 
